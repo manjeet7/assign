@@ -1,6 +1,6 @@
 .header{
 text-align: left;
-margin-left: 22px;
+margin-left: 51px;
 }
 
 .header_button{
@@ -8,7 +8,7 @@ margin-left: 22px;
    display: flex;
    align-items: center;
    gap: 10px;
-   margin-right: 58px;
+   margin-right: 83px;
 }
 .input_button h4{
     text-align: right;
@@ -23,8 +23,8 @@ button.input_button{
 }
 .timeframe_btn {
     display: flex;
-    margin-left: 20px;
-    gap: 68px;
+    margin-left: 45px;
+    gap: 97px;
    text-align: center;
 }
 .timeframe_btn h4:hover{
@@ -33,18 +33,18 @@ button.input_button{
 }
 .timeframe_header{
     text-align: left;
-    margin-left: 22px;
+    margin-left: 52px;
 }
 .timeframe_btn h4{
-    height:34px;
-    width: 84px;
+    height:44px;
+    width: 148px;
     justify-content: center;
     border: 1px solid #ccc;
-    border-radius: 22px;
+    border-radius: 42px;
    display: flex;
    color: rgb(80, 75, 75);
    flex-direction: row;
-   padding-top: 7px;
+   padding-top: 16px;
 }
 .left_text h4{
   text-align: right;
@@ -54,7 +54,7 @@ button.input_button{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 483px;
+    gap: 890px;
 }
 .apy_toggle{
    margin-right: 10px;
@@ -73,7 +73,7 @@ input[type=text] {
   }
   .header_input h5{
       text-align:  right;
-      margin-right: 58px;
+      margin-right: 83px;
       
   }
 .switch {
@@ -137,7 +137,7 @@ input[type=text] {
   }
   .input_suggest{
       display: flex;
-      margin-left: 36px;
+      margin-left: 46px;
       gap:10px;
       margin-top: 10px;
   }
